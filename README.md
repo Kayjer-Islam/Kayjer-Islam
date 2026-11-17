@@ -15,12 +15,12 @@ Building modern web applications, practical APIs and reliable software.
 
 ## SUMMARY
 
-I'm a Computer Science and Engineering graduate from **American International University-Bangladesh (AIUB)** with a **3.45 CGPA**.
+I'm a Computer Science and Engineering graduate from **American International University-Bangladesh (AIUB)** with a **3.35 CGPA**.
 
 I'm a full-stack developer interested in building modern, scalable, and efficient applications. I work across frontend and backend development, REST API design, and database-driven systems.
 
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering, AIUB
-- 📊 **CGPA:** 3.45
+- 📊 **CGPA:** 3.35
 - 💻 **Focus:** Full-stack web development
 - 🌱 **Interests:** Clean code, scalable applications, and learning new technologies
 
